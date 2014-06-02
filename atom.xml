@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shuca.github.io/atom.xml" rel="self"/>
   <link href="http://shuca.github.io/"/>
-  <updated>2014-06-02T11:57:44+09:00</updated>
+  <updated>2014-06-02T12:04:24+09:00</updated>
   <id>http://shuca.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://shuca.github.io/blog/2014/06/02/title/"/>
+    <updated>2014-06-02T12:02:19+09:00</updated>
+    <id>http://shuca.github.io/blog/2014/06/02/title</id>
+    <content type="html"><![CDATA[<p>テストテストテスト</p>
+]]></content>
+  </entry>
   
 </feed>
